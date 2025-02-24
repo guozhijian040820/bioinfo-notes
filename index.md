@@ -39,4 +39,4 @@
 ---
 
 ## **如何访问我的网页**
-👉 [点击这里访问我的 GitHub Pages](https://你的github用户名.github.io/bioinfo-notes/)
+👉 [点击这里访问我的 GitHub Pages](https://guozhijian040820.github.io/bioinfo-notes/)
