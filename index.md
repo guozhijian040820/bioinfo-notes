@@ -51,4 +51,4 @@
 ---
 
 ## **如何访问我的网页**
-👉 [点击这里访问我的 GitHub Pages](https://mancaisang.github.io/bioinfo-notes/)
+👉 [点击这里访问我的 GitHub Pages](https://mancaiwang.github.io/bioinfo-notes/)
