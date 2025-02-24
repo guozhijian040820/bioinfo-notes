@@ -2,7 +2,7 @@
 个人信息：郭智健，男，学号2022012359，所属院系：致理书院，专业：生命科学，当前参与科研方向：表观遗传、干细胞与发育生物学
 
 <p align="center">
-<img src="Personal%20ID%20Photo.jpg" alt="personal photo" width="100">
+<img src="Personal%20ID%20Photo.jpg" alt="personal photo" width="100 /">
 </p>
   
 ## 第一周笔记：算法与模型
