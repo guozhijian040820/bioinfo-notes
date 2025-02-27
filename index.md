@@ -1,5 +1,8 @@
 # 个人网页：生物信息学笔记与学习计划
   致理书院 郭智健
+  <p align="center">
+<img src="Personal%20ID%20Photo.jpg" alt="personal photo" width="100 /">
+</p>
 ## 第一周笔记：算法与模型 2025/2/24
 
 ### 1️⃣ 算法（Algorithm）
